@@ -1,0 +1,4 @@
+Now it is time to learn Git & GitHub.
+
+Git Day 1 lesson was finished.
+Commit and push have been done for three pages.
