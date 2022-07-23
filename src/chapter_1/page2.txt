@@ -1,6 +1,4 @@
 
-Page 2 is opened
-
-we are getting ready to commit
-
-noting new ywt
+Page 2 is opened.
+We are getting ready to commit.
+noting new ywt !
