@@ -6,3 +6,6 @@ It is generally used for source code management in software development.
 •	The distributed version control tool is used for source code management
 •	It allows multiple developers to work together
 •	It supports non-linear development through its thousands of parallel branches
+
+
+page 2 more information
